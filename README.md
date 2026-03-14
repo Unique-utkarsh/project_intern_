@@ -120,7 +120,5 @@ curl http://localhost:8000/api/vendor-product-mappings/?vendor_id=1
 - **Modular apps** — each entity and mapping lives in its own Django app
 - **Abstract base models** — `MasterModel` and `TimeStampedModel` reduce duplication
 - **Soft delete** — records are deactivated, not destroyed, preserving referential integrity
- ###
- thank you hope u will select me
- ####
  
+ # Thank you hope u will select me For Aicerts
